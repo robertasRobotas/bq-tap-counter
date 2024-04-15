@@ -92,3 +92,7 @@ body {
 .error {
   color: rgb(136, 41, 41);
 }
+
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+}
